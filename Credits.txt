@@ -1,2 +1,3 @@
 Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
+Tero Paananen <tero_paananen@hotmail.com>
